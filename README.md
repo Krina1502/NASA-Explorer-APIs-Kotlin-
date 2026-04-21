@@ -25,7 +25,7 @@ This app provides astronomy images, Mars Rover photos, and NASA image search fun
 - Language: Kotlin  
 - Android Framework: Android SDK, Jetpack Compose  
 - Networking: Retrofit for API calls  
-- Data Storage: Room Database for offline caching  
+- Data Storage: Room Database for offline caching, MVVM  
 - UI Components: Material Design, CardView, Buttons, ScrollView  
 - APIs: [NASA Public APIs](https://api.nasa.gov/)  
 
